@@ -8,7 +8,8 @@ const emojiCollection = {
   "😂": "laughing",
   "❤️": "loving",
   "😊": "smile",
-  "😥": "sad"
+  "😥": "sad",
+  "👍": "like"
 };
 
 const emojisWeKnow = Object.keys(emojiCollection);
